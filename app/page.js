@@ -858,4 +858,3 @@ export default function MazotTakip() {
     </div>
   );
 }
-
